@@ -4,3 +4,6 @@
 
 /.vs
 /Series6/.vs/Series6/v16
+/Series6/.vs/Series6/config
+/Series6/BookService/Properties
+/Series6/LoanService/Properties
